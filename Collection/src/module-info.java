@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Jagrath
+ *
+ */
+module Collection {
+}
